@@ -25,14 +25,23 @@
     "telegram_username": null,
     "telegram_first_name": "َرغودي 💕🌷",
     "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_61.jpg",
-    "session_id": "ce22c344-5729-4c4d-82b9-394a39204f37",
+    "session_id": "40e86979-d820-4a66-b220-a6ec985280c8",
     "created_at": "2026-05-11T21:27:04.039148",
     "verified": true,
-    "last_login": "2026-05-11T23:59:17.313036",
+    "last_login": "2026-05-12T16:30:17.451919",
     "balance": 0,
     "purchased_subjects": [
       "islamic",
-      "statistics"
+      "statistics",
+      "english",
+      "math",
+      "it",
+      "chemistry",
+      "physics_electric",
+      "physics_mechanic",
+      "biology",
+      "literary_studies",
+      "linguistic_studies"
     ],
     "server_num": 7
   }
