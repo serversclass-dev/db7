@@ -174,5 +174,58 @@
     "last_file": "p1.txt",
     "subject": "statistics",
     "saved_at": "2026-05-12T16:51:07.411951"
+  },
+  "raghad__english": {
+    "username": "raghad",
+    "subject_id": "english",
+    "messages": [
+      {
+        "role": "user",
+        "content": "ليش الحل رقم D",
+        "timestamp": "2026-05-15T15:12:16.723141+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "أهلاً بك 🌟  \nأنا **مساعد الإنجليزي الذكي**، ويسعدني أساعدك.\n\nسؤالك: **\"ليش الحل رقم D؟\"**  \nلكن إلى الآن ما عندي **السؤال أو الخيارات**، لذلك ما أقدر أحدد السبب بدقة.\n\n📌 أرسل لي واحد من هذه الأشياء:\n1. **صورة السؤال**\n2. **نص السؤال كامل**\n3. **الخيارات A B C D**\n\nوبعدها سأشرح لك:\n- لماذا **D** هو الصحيح\n- ولماذا بقية الخيارات خطأ\n- بطريقة سهلة تناسب الشهادة الثانوية الليبية 👍\n\nأرسل السؤال وأنا معك خطوة بخطوة.",
+        "timestamp": "2026-05-15T15:12:19.872461+00:00"
+      },
+      {
+        "role": "user",
+        "content": "[صورة دراسية]\n\n18) I was driving to the hospital when my mobile phone rang.\n\nA) action that is still happening until now.  \nB) finished action  \nC) action that will be interrupted later.  \nD) action that was interrupted by another action.\n\nالإجابة المحددة في الصورة:\nD) action that was interrupted by another action.\n\nملاحظات من الصورة:\n- تم وضع دائرة حول الجملة: “was driving”\n- وتم تحديد الاختيار: “D) action that was interrupted by another action.”\n- رقم الصفحة الظاهر: 17\n\nسؤال الطالب: ليش الحل هوا D",
+        "timestamp": "2026-05-15T15:12:35.149441+00:00"
+      },
+      {
+        "role": "user",
+        "content": "[صورة دراسية]\n\n18) I was driving to the hospital when my mobile phone rang.\n\nA) action that is still happening until now.  \nB) finished action  \nC) action that will be interrupted later  \nD) action that was interrupted by another action.\n\nالإجابة المحددة في الصورة:  \nD) action that was interrupted by another action.\n\nملاحظات تنظيمية:\n- رقم الصفحة الظاهر: 17\n- يوجد تحديد/تأشير بالقلم حول الجملة والسؤال، وكذلك حول الاختيار D.",
+        "timestamp": "2026-05-15T15:13:44.038809+00:00"
+      }
+    ],
+    "full_messages": [
+      {
+        "role": "user",
+        "content": "ليش الحل رقم D",
+        "timestamp": "2026-05-15T15:12:16.723141+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "أهلاً بك 🌟  \nأنا **مساعد الإنجليزي الذكي**، ويسعدني أساعدك.\n\nسؤالك: **\"ليش الحل رقم D؟\"**  \nلكن إلى الآن ما عندي **السؤال أو الخيارات**، لذلك ما أقدر أحدد السبب بدقة.\n\n📌 أرسل لي واحد من هذه الأشياء:\n1. **صورة السؤال**\n2. **نص السؤال كامل**\n3. **الخيارات A B C D**\n\nوبعدها سأشرح لك:\n- لماذا **D** هو الصحيح\n- ولماذا بقية الخيارات خطأ\n- بطريقة سهلة تناسب الشهادة الثانوية الليبية 👍\n\nأرسل السؤال وأنا معك خطوة بخطوة.",
+        "timestamp": "2026-05-15T15:12:19.872461+00:00"
+      },
+      {
+        "role": "user",
+        "content": "[صورة دراسية]\n\n18) I was driving to the hospital when my mobile phone rang.\n\nA) action that is still happening until now.  \nB) finished action  \nC) action that will be interrupted later.  \nD) action that was interrupted by another action.\n\nالإجابة المحددة في الصورة:\nD) action that was interrupted by another action.\n\nملاحظات من الصورة:\n- تم وضع دائرة حول الجملة: “was driving”\n- وتم تحديد الاختيار: “D) action that was interrupted by another action.”\n- رقم الصفحة الظاهر: 17\n\nسؤال الطالب: ليش الحل هوا D",
+        "timestamp": "2026-05-15T15:12:35.149441+00:00"
+      },
+      {
+        "role": "user",
+        "content": "[صورة دراسية]\n\n18) I was driving to the hospital when my mobile phone rang.\n\nA) action that is still happening until now.  \nB) finished action  \nC) action that will be interrupted later  \nD) action that was interrupted by another action.\n\nالإجابة المحددة في الصورة:  \nD) action that was interrupted by another action.\n\nملاحظات تنظيمية:\n- رقم الصفحة الظاهر: 17\n- يوجد تحديد/تأشير بالقلم حول الجملة والسؤال، وكذلك حول الاختيار D.",
+        "timestamp": "2026-05-15T15:13:44.038809+00:00"
+      }
+    ],
+    "summary": "",
+    "message_count": 2,
+    "last_file": "main.txt",
+    "subject": "english",
+    "saved_at": "2026-05-15T15:12:19.872510"
   }
 }
