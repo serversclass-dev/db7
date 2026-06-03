@@ -7,6 +7,16 @@
         "role": "user",
         "content": "اشرح لي الفصل الأول",
         "timestamp": "2026-05-07T10:45:05.756467+00:00"
+      },
+      {
+        "role": "user",
+        "content": "اهلا",
+        "timestamp": "2026-06-03T18:56:15.597405+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "عذراً، حدث خطأ في النظام. حاول مرة أخرى.",
+        "timestamp": "2026-06-03T18:56:17.160499+00:00"
       }
     ],
     "full_messages": [
@@ -14,13 +24,23 @@
         "role": "user",
         "content": "اشرح لي الفصل الأول",
         "timestamp": "2026-05-07T10:45:05.756467+00:00"
+      },
+      {
+        "role": "user",
+        "content": "اهلا",
+        "timestamp": "2026-06-03T18:56:15.597405+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "عذراً، حدث خطأ في النظام. حاول مرة أخرى.",
+        "timestamp": "2026-06-03T18:56:17.160499+00:00"
       }
     ],
     "summary": "",
-    "message_count": 0,
-    "last_file": null,
+    "message_count": 2,
+    "last_file": "main.txt",
     "subject": "islamic",
-    "saved_at": "2026-05-07T10:47:12.243598"
+    "saved_at": "2026-06-03T18:56:17.160550"
   },
   "raghad__statistics": {
     "username": "raghad",
